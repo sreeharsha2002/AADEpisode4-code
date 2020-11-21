@@ -15,4 +15,4 @@ printed the output in stderr too. to know the values,
 * ./pin < pintest.txt 
 
 the following process is done for getting password.
-![Getting Started](./ss.png)
+![Getting Started](./SS.png)
