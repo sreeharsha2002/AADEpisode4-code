@@ -28,6 +28,7 @@ void KMPSearch(char* pat, char* txt)
 
 		if (j == M) { 
 			printf("Found Jecyll word at index %d \n", i - j); 
+			fprintf(stderr,"Found Jecyll word at index %d \n", i - j); 
 			j = lps[j - 1]; 
 		} 
 
