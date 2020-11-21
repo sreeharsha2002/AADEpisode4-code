@@ -8,7 +8,7 @@ KMP Code
 
 ## Running the testcase to find matches of word jeckyll
 * ./kmp < testkmp3.txt > pintest.txt
-the output will redirect to pintest.txt
+* the output will redirect to pintest.txt
 printed the output in stderr too. to know the values,
 
 ## Finding the password
