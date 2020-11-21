@@ -1,6 +1,0 @@
-Found Jecyll word at index 50 
-Found Jecyll word at index 150 
-Found Jecyll word at index 2283 
-Found Jecyll word at index 81366 
-Found Jecyll word at index 173483 
-Found Jecyll word at index 60608681 
